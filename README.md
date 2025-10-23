@@ -37,10 +37,4 @@ To provide a trustless and transparent financial infrastructure where users can 
 
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/33406f04-df8f-433f-b380-c310a2104f83" />
 
----
-## 🛠️ Setup & Deployment
-
-### 1️⃣ Install dependencies
-```bash
-npm install
 
