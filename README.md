@@ -33,7 +33,7 @@ To provide a trustless and transparent financial infrastructure where users can 
 3. `getBalance()` — Returns the balance of the user’s account.  
 
 ---
-## Contract Adress: 0xd786E8893EB963a60BbdE8B50DF12BE0C2c031f0
+## Contract Address: 0xd786E8893EB963a60BbdE8B50DF12BE0C2c031f0
 
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/33406f04-df8f-433f-b380-c310a2104f83" />
 
